@@ -36,8 +36,7 @@ TG自动/自助发卡机器人/USDT发卡机器人/多语言发卡机器人/带w
 
 ### 使用交流
 
-Telegram交流更新群: https://t.me/+v16BXiiwU4U5ZjEx    
-官方论坛:https://bbs.oo-uu.cc    
+Telegram交流更新群: https://t.me/openfaka
 客服:https://t.me/buzhiguiqi
 
 # 推荐服务器和域名
@@ -109,8 +108,8 @@ Telegram交流更新群: https://t.me/+v16BXiiwU4U5ZjEx
 
 ## 演示及默认后台
 
-- 演示后台: https://kkkk.kime.eu.org/admin    用户名:admin  密码:admin
-- 演示机器人: https://t.me/tgfakalangtestBot
+- 演示后台: https://caonima.cl.kime.eu.org/admin    用户名:admin  密码:admin
+- 演示机器人: https://t.me/testkaifaBot
 - 演示站为1核1G的服务器,测试起来相对比较卡
 
 - 后台路径 `/admin`
@@ -126,7 +125,9 @@ Telegram交流更新群: https://t.me/+v16BXiiwU4U5ZjEx
 本系统不得用于**黄毒赌CVV电子烟国内实名账号**等违法内容
 
 ## 售价
-此版本售价为350U永久授权提供一次搭建服务以及装修服务提供一年更新服务    
+此版本售价75U提供搭建图文教程搭建视频教程
+150U提供一次搭建服务和迁移服务在75U基础上增加一年更新服务
+350U在150U的基础上增加1年的技术支持
 永久收款地址:`TD1iCRED5x9rbDDrR8fJzKpcxfkr4rYioU`
 
 ## 免费版本使用
